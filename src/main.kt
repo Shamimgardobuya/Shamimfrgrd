@@ -42,6 +42,6 @@ class employee(var name :String,var email:String,var company:String) {
     }
 }
 fun addNum(a:Int,b:Int){
-    var sum = a+b
-    println(sum)
+    var sum1 = a+b
+    println(sum1)
 }
